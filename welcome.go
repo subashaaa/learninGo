@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
-  fmt.Println("Welcome");
-  fmt.Println("The time is", time.Now());
+  fmt.Println("Welcome")
+  fmt.Println("The time is", time.Now())
+  fmt.Println("Testing ssh auth")
 }
